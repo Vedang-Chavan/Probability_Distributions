@@ -22,7 +22,7 @@ https://huggingface.co/spaces/vedang45/Probability-Distributions
 ### Screenshots
 
 UI
-![img_3.png](img_3.png)
+![img.png](img.png)
 
 Different distributions
 ![img_1.png](img_1.png)
